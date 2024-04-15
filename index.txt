@@ -1,24 +1,24 @@
-vCard - Personal Portfolio
+vCard - KİŞİSEL ALAN
 
 # sidebar
 
 alt = Richard hanrick
-Richard hanrick
+ibrahim çolak
 Web developer
 
 Show Contacts
 
 Email
-richard@example.com
+takip@dr.com
 
 Phone
-+1 (213) 352-2795
+YASAK
 
 Birthday
-June 23, 1982
+Mart 04, 2000
 
 Location
-Sacramento, California, USA
+VONA, ORDU, TR
 
 # navbar
 
@@ -32,9 +32,9 @@ Contact
 
 About me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+NONE
 
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+EKLENECEKTİR.
 
 
 ## service
@@ -43,7 +43,7 @@ What i'm doing
 
 alt = design icon
 Web design
-The most modern and high-quality design made at a professional level.
+ Web tasarım ve uyarlama  Sistemleri .
 
 alt = Web development icon
 Web development
@@ -51,11 +51,11 @@ High-quality development of sites at the professional level.
 
 alt = mobile app icon
 Mobile apps
-Professional development of applications for iOS and Android.
+Mobil üzerinde Termux ve Android Zafiyet Testleri.
 
 alt = camera icon
 Photography
-I make high-quality photos of any category at a professional level.
+I  high-quality yüksek pixel sayısal değerler.
 
 
 ## testimonials
