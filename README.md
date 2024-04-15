@@ -1,82 +1,44 @@
-<div id="readme" class="readme p-5 html-blob blob">
-      <div class="markdown-body container-lg">
-        <ul dir="auto">
-<li><g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji> Hi, I’m @ibrahimcolak</li>
-<li><g-emoji class="g-emoji" alias="eyes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png">👀</g-emoji> I’m interested in programming</li>
-<li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m learning programming</li>
-<li><g-emoji class="g-emoji" alias="revolving_hearts" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f49e.png">💞️</g-emoji> I like coding with python, shell</li>
-<li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> <a href="mailto:takip@dr.com">developer.takip@dr.com</a></li>
-</ul>
-<hr>
-<blockquote>
-<p dir="auto"><strong><g-emoji class="g-emoji" alias="floppy_disk" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4be.png">💾</g-emoji>Programming on python, shell</strong></p>
-</blockquote>
-<blockquote>
-<p dir="auto"><strong><g-emoji class="g-emoji" alias="card_index_dividers" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5c2.png">🗂️</g-emoji>I'm interested cybersecurity</strong></p>
-</blockquote>
-<blockquote>
-<p dir="auto"><strong><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji>Coding on: python, shell</strong></p>
-</blockquote>
-<blockquote>
-<p dir="auto"><strong><g-emoji class="g-emoji" alias="tickets" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f39f.png">🎟️</g-emoji>I'm interested hacking</strong></p>
-</blockquote>
-<hr>
-<p dir="auto"><a href="https://camo.githubusercontent.com/338f53e73cbbe5f114781e48dfcd44c1085b52d55b3aaa8d03273f2ff8920983/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d2532333030373561383f6c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465267374796c653d666c61742d737175617265" rel="nofollow"><img src="https://camo.githubusercontent.com/338f53e73cbbe5f114781e48dfcd44c1085b52d55b3aaa8d03273f2ff8920983/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d2532333030373561383f6c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465267374796c653d666c61742d737175617265" alt="Python" style="max-width: 100%;"></a> <a href="https://camo.githubusercontent.com/08564d6ad7f143339dc3aa5c81584c705ba918b5d6723ba00126cd5d8792e634/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d7068702d2532333030373561383f6c6f676f3d706870266c6f676f436f6c6f723d7768697465267374796c653d666c61742d737175617265" rel="nofollow"><img src="https://camo.githubusercontent.com/08564d6ad7f143339dc3aa5c81584c705ba918b5d6723ba00126cd5d8792e634/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d7068702d2532333030373561383f6c6f676f3d706870266c6f676f436f6c6f723d7768697465267374796c653d666c61742d737175617265" alt="PHP" style="max-width: 100%;"></a> <a href="https://camo.githubusercontent.com/b3f0ec7535a39d16b0561bc37560f817d8c358ab5b06617ba46335380d6ab734/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d2532336465346232353f6c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465267374796c653d666c61742d737175617265" rel="nofollow"><img src="https://camo.githubusercontent.com/b3f0ec7535a39d16b0561bc37560f817d8c358ab5b06617ba46335380d6ab734/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d2532336465346232353f6c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465267374796c653d666c61742d737175617265" alt="HTML" style="max-width: 100%;"></a>
-<a href="https://camo.githubusercontent.com/3018659b8f6dd659b6dd14c3c465d724c800b789a441c100ee3383ec525e5462/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d61726b646f776e2d2532336539633234313f6c6f676f3d6e696d266c6f676f436f6c6f723d7768697465267374796c653d666c61742d737175617265" rel="nofollow"><img src="https://camo.githubusercontent.com/3018659b8f6dd659b6dd14c3c465d724c800b789a441c100ee3383ec525e5462/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d61726b646f776e2d2532336539633234313f6c6f676f3d6e696d266c6f676f436f6c6f723d7768697465267374796c653d666c61742d737175617265" alt="Markdown" style="max-width: 100%;"></a> <a href="https://camo.githubusercontent.com/25222214d6031d97004f19f884dda1520d5b5fad261d7a6000684dab67e27545/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5368656c6c2d677265656e3f6c6f676f3d7368656c6c266c6f676f436f6c6f723d7768697465267374796c653d666c61742d737175617265" rel="nofollow"><img src="https://camo.githubusercontent.com/25222214d6031d97004f19f884dda1520d5b5fad261d7a6000684dab67e27545/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5368656c6c2d677265656e3f6c6f676f3d7368656c6c266c6f676f436f6c6f723d7768697465267374796c653d666c61742d737175617265" alt="Shell" style="max-width: 100%;"></a></p>
-<h2 dir="auto"><a id="user-content-find-me-on" class="anchor" aria-hidden="true" href="#find-me-on"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><a id="user-content-find-me-on" href="#find-me-on"></a>Find Me On</h2>
-<p dir="auto">
+# vCard - Personal portfolio
 
+![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
+![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
+![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
+[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
 
+vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
-<a href="TR`|Çolaks
-#0742"><img src="https://camo.githubusercontent.com/a13c6b8190fce564e54ecbbc26c6519126940707f6171b9c655d64e77e0b0cf1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d4865315a656e2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264" alt="Github" style="max-width: 100%;"></a></p>
-<h2 dir="auto"><a id="user-content-donate" class="anchor" aria-hidden="true" href="#donate"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><a id="user-content-donate" href="#donate"></a>Donate</h2>
-<h2 dir="auto"><a id="user-content-if-you-want-to-donate-click-on-the-button" class="anchor" aria-hidden="true" href="#if-you-want-to-donate-click-on-the-button"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><a id="user-content-if-you-want-to-donate-click-on-the-button" href="#if-you-want-to-donate-click-on-the-button"></a><strong>If you want to donate, click on the button</strong>
-<a href="www.duckduckgo.com" rel="nofollow"><img title="Donate" src="https://camo.githubusercontent.com/a0261920aa7d2e5c0e77768e5348cd814c7254e7e0b54db5a750e36daf5b268e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f427579204d652d4120436f666665652d79656c6c6f773f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562" style="max-width: 100%;"></a>
-<h4 dir="auto"><a id="user-content-i-recommend-to-look" class="anchor" aria-hidden="true" href="#i-recommend-to-look"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><a id="user-content-i-recommend-to-look" href="#i-recommend-to-look"></a>I Recommend To look:</h4>
-<ul dir="auto">
-<li><a href="https://github.com/ibrahimcolak/">AllHackingTools - system for large hacking</a><br></li>
-<li><a href="https://github.com/ibrahimcolak/">Py-ddoser - Very strong ddos with proxy</a></li>
-<li><a href="https://github.com/ibrahimcolak/">Free-Proxy - Lots of free proxy servers</a><br></li>
-<li><a href="https://github.com/ibrahimcolak/">UserFinder - Find users in social</a><br></li>
-<li><a href="https://github.com/ibrahimcolak/">MailFinder - Mail Finder</a><br></li>
-<li><a href="https://github.com/ibrahimcolak/">AdminHack - Hacking admin panel</a><br></li>
-<li><a href="https://github.com/ibrahimcolak/">IpHack - Easy Tracking smartphones</a><br></li>
-</ul>
-<hr>
-<h2 dir="auto"><a id="user-content-systems-os" class="anchor" aria-hidden="true" href="#systems-os"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><a id="user-content-systems-os" href="#systems-os"></a>Systems OS</h2>
-<p dir="auto"><a href="https://windows.com" rel="nofollow"><img src="https://camo.githubusercontent.com/6b446f3935100247f5b10a67d29a2b6d9f044153e4df900650a73425fbe07139/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f77696e646f77732d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d77696e646f7773266c6f676f436f6c6f723d7768697465" alt="WINDOWS" style="max-width: 100%;"></a>
-<a href="https://android.com" rel="nofollow"><img src="https://camo.githubusercontent.com/5b7886225855c2c5ac8bcc15effcb289c238c597680d61c24e5e7541af59ee10/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e64726f69642d3344444338343f7374796c653d666f722d7468652d6261646765266c6f676f3d616e64726f6964266c6f676f436f6c6f723d7768697465" alt="Android" style="max-width: 100%;"></a>
-<a href="https://camo.githubusercontent.com/bd2bd127c104ba5c98bb12c70801b075aee1f040009089510f69554300e7ff41/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465" rel="nofollow"><img src="https://camo.githubusercontent.com/bd2bd127c104ba5c98bb12c70801b075aee1f040009089510f69554300e7ff41/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465" alt="Git" style="max-width: 100%;"></a>
-<a href="https://camo.githubusercontent.com/71790379eb2459d3c732db11788bb8451c0a2cb106c711cc57f71bf528bdb764/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f6f676c655f436c6f75642d3432383546343f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c652d636c6f7564266c6f676f436f6c6f723d7768697465" rel="nofollow"><img src="https://camo.githubusercontent.com/71790379eb2459d3c732db11788bb8451c0a2cb106c711cc57f71bf528bdb764/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f6f676c655f436c6f75642d3432383546343f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c652d636c6f7564266c6f676f436f6c6f723d7768697465" alt="GCP" style="max-width: 100%;"></a></p>
-<p dir="auto"><a href="https://camo.githubusercontent.com/b77c604f50dc80309048f6a88b7db89e4fa574424155df691ae76515184bf16e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6d697368616b6f727a696b2673686f775f69636f6e733d74727565267468656d653d64656661756c74266c696e655f6865696768743d3235266c61796f75743d636f6d70616374" rel="nofollow"><img src="https://camo.githubusercontent.com/b77c604f50dc80309048f6a88b7db89e4fa574424155df691ae76515184bf16e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6d697368616b6f727a696b2673686f775f69636f6e733d74727565267468656d653d64656661756c74266c696e655f6865696768743d3235266c61796f75743d636f6d70616374" style="max-width: 100%;"></a></p><p dir="auto"></p>
-<h2 dir="auto"><a id="user-content-infinity-proxy" class="anchor" aria-hidden="true" href="#infinity-proxy"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><a id="user-content-infinity-proxy" href="#infinity-proxy"></a>Infinity Proxy</h2>
-<div dir="auto"><pre><code>socks4 - offline
-socks5 - offline
-</code><p data-sourcepos="55:1-58:16" dir="auto"><code>vpn ping: 100-150ms
-</code></p></pre><div dir="auto">
-&lt;clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="socks4 - offline
-socks5 - offline<p dir="auto"></p>
-<p data-sourcepos="60:1-67:21" dir="auto">vpn ping: 100-150ms" tabindex="0" role="button"&gt;
+## Demo
 
+![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
+![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
 
+## Prerequisites
 
+Before you begin, ensure you have met the following requirements:
 
+* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
+## Installing vCard
 
-</p>
-  </div></div>
-<p dir="auto">These proxies change the region and IP, using tor or vpn</p>
-<hr>
-<h3 dir="auto"><a id="user-content-special-tranks" class="anchor" aria-hidden="true" href="#special-tranks"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><a id="user-content-special-tranks" href="#special-tranks"></a>Special Tranks:</h3>
-<ul dir="auto">
-<li><a href="http://github.com/SuperOchkobus">SuperOchkobus</a></li>
-<li><a href="https://github.com/Zard2007">Zard2007</a></li>
-</ul>
+To install **vCard**, follow these steps:
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fb070d9f71a64edbafed08519130d75e7e0a0a69665d50d94ad095157f702e59/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966"><img src="https://camo.githubusercontent.com/fb070d9f71a64edbafed08519130d75e7e0a0a69665d50d94ad095157f702e59/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" style="max-width: 100%;"></a></p>
+Linux and macOS:
 
-      </div>
-    </div>
+```bash
+sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+```
 
-https://arxiv.org/pdf/1806.04558.pdf
+Windows:
+
+```bash
+git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+```
+
+## Contact
+
+If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+
+## License
+
+MIT
